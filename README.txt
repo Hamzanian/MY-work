@@ -1,5 +1,6 @@
 Bazooka Ecommerce site
 
+Hamza and Shahzaib (softcode)
 it is  built on
 	react
 	redux
